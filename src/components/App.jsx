@@ -22,7 +22,7 @@ function App() {
  
 
 
-  const [text,setText]=useState("chennai");
+  const [text,setText]=useState("london");
   const [temp,setTemp]=useState(0);
   const [city,setCity]=useState("");
   const [country,setCountry]=useState("");
