@@ -80,7 +80,6 @@ function App() {
         return
       }
       
-      console.log(res);
     setCity(res.name)
     setTemp(res.main.temp)
     setCountry(res.sys.country)
