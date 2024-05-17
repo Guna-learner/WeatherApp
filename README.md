@@ -1,4 +1,12 @@
-# React + Vite
+Title -- Weather APP.
+<br/>
+This is my 1st Reactjs project.
+<br/>
+Skills used - reactjs,Api.
+<br/>
+Concepts learned during development -- useState,useEffect,useContext,props. 
+<br/>
+And also learned how to host ReactJs in github.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
